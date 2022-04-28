@@ -1,0 +1,11 @@
+{
+  "branches": [ "main" ],
+  "repositoryUrl": "https://github.com/agunay/semantic-release-test.git",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator"
+  ],
+  "dryRun": true,
+  "ci": false,
+  "debug": true
+}
