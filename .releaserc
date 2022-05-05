@@ -5,7 +5,7 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator"
   ],
-  "dryRun": true,
+  "dryRun": false,
   "ci": false,
   "debug": true
 }
