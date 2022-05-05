@@ -1,2 +1,2 @@
 # semantic-release-test
-Hello
+Hello world
